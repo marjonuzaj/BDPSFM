@@ -7,4 +7,4 @@ This code replicates the Empirical Section.
 2. Bayesian Dynamic Panel Model - No Endogeneity
 3. Bayesian Dynamic Panel Model - With Endogeneity
 
-* All codes where run using Python3.12.
+All codes was run using Python3.12.
