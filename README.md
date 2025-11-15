@@ -1,6 +1,6 @@
 # BDPSFM
 Bayesian Inference in Dynamic Panel Stochastic Frontier Models
-\\
+
 This code replicates the Empirical Section.
 
 1. UK FAME Dataset
