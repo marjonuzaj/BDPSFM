@@ -1,5 +1,6 @@
 # BDPSFM
-Codes for: Bayesian Inference in Dynamic Panel Stochastic Frontier Models
+Bayesian Inference in Dynamic Panel Stochastic Frontier Models
+This code replicates the Empirical Section.
 
 1. : Dataset
 2. Bayesian Dynamic Panel Model - No Endogeneity
